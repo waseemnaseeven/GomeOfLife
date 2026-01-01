@@ -4,7 +4,7 @@
 
 ## Little demo
 
-![gomeoflife](gol.mov)
+![gomeoflife](gol.gif)
 
 ## How to build
 
