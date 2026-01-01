@@ -4,4 +4,7 @@
 
 ## How to build
 
-Without surprise, you'll have Go installed and then `go run main.go`
+Without surprise, you'll have Go installed and then 
+```
+go run main.go
+```
